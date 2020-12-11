@@ -68,7 +68,7 @@ Type `vim testfile.txt` Now you can move inside this file using the arrow keys o
 | j (lower case)| to move down
 | k (lower case)| to move up
 
-You can use the `l, h, j and k` to move around faster without having to move your hand from it's position. 
+You can use the `l, h, j and k` to move around faster without having to move your hand from it position. 
  
 
 
