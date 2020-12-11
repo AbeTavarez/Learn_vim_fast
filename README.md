@@ -1,3 +1,5 @@
+![vim editor](https://res.cloudinary.com/abetavarez/image/upload/v1607656755/learnvim_a3tso2.png)
+
 # Learn_vim_fast 🏃💨
 
 # Basics ✏️
