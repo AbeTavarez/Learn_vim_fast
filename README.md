@@ -2,7 +2,7 @@
 
 # Basics ✏️
 
-Hello, 👋🏻 welcome to a fast intro to that VIM Editor...
+Hello, 👋🏻  welcome to a fast intro to that VIM Editor...
 
 First things first, what's VIM?
 
