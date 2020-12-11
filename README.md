@@ -43,7 +43,7 @@ You just told vim to go into "INSERT MODE". Now you can type anything you'd like
 ![vim editor on insert mode](https://res.cloudinary.com/abetavarez/image/upload/v1607655497/Screen_Shot_2020-12-10_at_9.58.07_PM_ecj3wa.png)
 
 
-When you're done typing, press the "escape" key on your keyboard to exit "INSERT MODE" , then type `:w` and press enter to "write" or "save" the file. Finally, type `:q` and press enter to exist vim. 
+When you're done typing, press the "escape" key on your keyboard to exit "INSERT MODE", then type `:w` and press enter to "write" or "save" the file. Finally, type `:q` and press enter to exist vim. 
 
 Another way to write and quit vim in a single command is `:wq` .  
 
