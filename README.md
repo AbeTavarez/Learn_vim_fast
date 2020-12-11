@@ -1,4 +1,4 @@
-# Learn_vim_fast
+# Learn_vim_fast 🏃💨
 
 # Basics ✏️
 
