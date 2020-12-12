@@ -43,8 +43,7 @@ Now comes yet another tricky part. As soon as vim opens, it opens on "command mo
 Let's use one of those commands, press `i` on your keyboard.
 You just told vim to go into "INSERT MODE". Now you can type anything you'd like:
 
-![vim editor on insert mode]
-(https://res.cloudinary.com/abetavarez/image/upload/v1607655497/Screen_Shot_2020-12-10_at_9.58.07_PM_ecj3wa.png)
+![vim editor on insert mode](https://res.cloudinary.com/abetavarez/image/upload/v1607655497/Screen_Shot_2020-12-10_at_9.58.07_PM_ecj3wa.png)
 
 
 When you're done typing, press the "escape" key on your keyboard to exit "INSERT MODE" , then type `:w` and press enter to "write" or "save" the file. Finally, type `:q` and press enter to exist vim. 
@@ -53,8 +52,7 @@ Another way to write and quit vim in a single command is `:wq` .
 
 To check that your file has been saved, type `cat testfile.txt`. This command will print the file content on your terminal. 
 
-![file content printed to terminal]
-(https://res.cloudinary.com/abetavarez/image/upload/v1607655930/Screen_Shot_2020-12-10_at_10.05.21_PM_gsrscm.png)
+![file content printed to terminal](https://res.cloudinary.com/abetavarez/image/upload/v1607655930/Screen_Shot_2020-12-10_at_10.05.21_PM_gsrscm.png)
 
 Voila! You just learned how to create and write a text file without leaving the comfort of your terminal.
 
